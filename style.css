@@ -2,3 +2,12 @@
     border: none;
     background-color: white;
 }
+
+.container {
+    margin-bottom: 100px;
+}
+
+.card-small {
+    margin: 20px;
+    border: 2px solid black;
+}
